@@ -8,7 +8,7 @@ SECRET_KEY = 'he8923lz5216^*(*!Q("}{|roku_config:set_DISABLE_COLLECTSTATIC=1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://boply.herokuapp.com/']
 
 # Application definition
 
